@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopify.DeliveryMethods.Framework", "Shopify.DeliveryMethods.Framework\Shopify.DeliveryMethods.Framework.csproj", "{5DBECEE1-0C6B-4384-B3B3-16C5E8CDBEEE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5DBECEE1-0C6B-4384-B3B3-16C5E8CDBEEE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5DBECEE1-0C6B-4384-B3B3-16C5E8CDBEEE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5DBECEE1-0C6B-4384-B3B3-16C5E8CDBEEE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5DBECEE1-0C6B-4384-B3B3-16C5E8CDBEEE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
